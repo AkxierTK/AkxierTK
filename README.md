@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi 👋! My name is Guillermo and i'm a .NET developer</h2>
 
 ###
@@ -38,6 +39,7 @@
 </div>
 
 ###
+
 <div align="left">
   <a href="https://www.instagram.com/gribera.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -51,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/AkxierTK/profile/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Akxiertk/Akxiertk/output/snake.svg" alt="Snake animation" />
 
 ###
