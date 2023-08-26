@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Guillermo and i'm a .NET developer</h2>
+<h2 align="left">Hi 👋! My name is Guillermo and I'm a Software Developer</h2>
 
 ###
 
