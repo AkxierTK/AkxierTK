@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Akxiertk/Akxiertk/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AkxierTK/profile/blob/output/snake.svg" alt="Snake animation" />
 
 ###
